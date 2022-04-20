@@ -1,5 +1,12 @@
 # IBM-FuelConsumption_Pipeline_FastAPI
+
 A complete end to end Data Science project on IBM'S Fuel Consumption dataset. <br> <br>
+
+### Docker
+
+Dockerized Version (Runs the API): https://hub.docker.com/repository/docker/prmethus/fuel_consumption_prediction
+
+### Description
 
 Data/FuelConsumption.csv contains the Fuel Consumption dataset.  <br>
 train.ipynb contains the IPython Notebook where I performed Data Analysis and trained the ML pipeline.  <br>
